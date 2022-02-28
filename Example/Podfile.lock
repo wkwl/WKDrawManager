@@ -1,0 +1,16 @@
+PODS:
+  - WKDrawManager (0.1.0)
+
+DEPENDENCIES:
+  - WKDrawManager (from `../`)
+
+EXTERNAL SOURCES:
+  WKDrawManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WKDrawManager: 2ef7fc5c7282e5d06c8ecfd196db71928689dce0
+
+PODFILE CHECKSUM: 47411194bd5142ec95454ba420709f16f2e5ae0c
+
+COCOAPODS: 1.11.2
