@@ -1,0 +1,6 @@
+framework module WKDrawManager {
+  umbrella header "WKDrawManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
