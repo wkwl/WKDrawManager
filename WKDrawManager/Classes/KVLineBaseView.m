@@ -1,8 +1,8 @@
 //
 //  KVLineBaseView.m
 //  KavinDrawTool
-//
-//  Created by sgx_02 on 2021/12/26.
+//  Copyright 
+//  Created by sgx_05 on 2022/02/28.
 //
 
 #import "KVLineBaseView.h"
@@ -47,7 +47,7 @@
         CGFloat startY = self.yTextHeight/2.0;//可以加上视图与顶部之间的间距
         self.startPoint = CGPointMake(startX, startY);
         
-        self.gradientColors = @[(__bridge id)[UIColor colorWithRed:255/255.0 green:69/255.0 blue:0/255.0 alpha:0.8].CGColor,(__bridge id)[UIColor colorWithWhite:1 alpha:1].CGColor];
+        self.gradientColors = @[(__bridge id)[UIColor colorWithRed:255/255.0 green:69/255.0 blue:0/255.0 alpha:0.8].CGColor,(__bridge id)[UIColor colorWithWhite:1 alpha:0.3].CGColor];
         self.gradientLocations = @[@0.0,@1.0];
         self.gradientStartPoint = CGPointMake(0,0.0);
         self.gradientEndPoint = CGPointMake(0,0.9);

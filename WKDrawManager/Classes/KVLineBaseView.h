@@ -1,8 +1,8 @@
 //
 //  KVLineBaseView.h
 //  KavinDrawTool
-//
-//  Created by sgx_02 on 2021/12/26.
+//   Copyright 
+//  Created by sgx_05 on 2022/22/28.
 //
 
 #import <UIKit/UIKit.h>
